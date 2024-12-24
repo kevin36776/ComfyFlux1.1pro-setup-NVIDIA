@@ -47,6 +47,7 @@ Configure Flux API (if using):
 
 cd ComfyUI_Flux_1.1_RAW_API
 # Edit config.ini with your API key
+nano config.ini
 
 Run ComfyUI:
 
